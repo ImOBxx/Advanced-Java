@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Advanced Java_edc37eb2",
+            "vmArgs": "--module-path /Users/abhishekbanerjee/Downloads/javafx-sdk-22.0.2/lib --add-modules javafx.controls,javafx.fxml"
+        }
+    ]
+}
