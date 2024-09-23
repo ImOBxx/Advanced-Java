@@ -33,5 +33,7 @@ public class MyButton {
 
         btn.setText("My Button");
         frame.setVisible(true);
+
+        
 }
 }
